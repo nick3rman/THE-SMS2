@@ -49,12 +49,12 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play]" )
+        print("ส่งแล้ว เครดิต LTEMX2")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("ส่งไปแล่ว [AISP_Play] ")
+        print("ส่งแล้ว เครดิต LTEMX2")
 loop(num)
 
 
