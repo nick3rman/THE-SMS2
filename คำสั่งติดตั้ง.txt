@@ -1,0 +1,10 @@
+ห้ามขาย(ใครขายพ่องตาย)
+ 
+ pkg upgrade && pkg update
+ pip3 install requests
+ pip3 install colorama
+ pkg install python
+ termux-setup-storage
+ termux-setup-storage
+ dpkg --configure -a
+ dpkg --configure -a
