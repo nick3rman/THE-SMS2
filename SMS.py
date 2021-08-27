@@ -4,7 +4,7 @@ import colorama
 from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import 
-os.system*("pkg install toilet")
+os.system("pkg install toilet")
 os.system("pkg install ruby")
 os.system("gem install lolcat")
 os.system("pkg install python")
