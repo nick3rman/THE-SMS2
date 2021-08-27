@@ -13,9 +13,10 @@ os.system("pip insall request")
 os.system("clear")
 os.system("toilet -f mono12 SMS |lolcat")
 print ("HACKER")
+print("CREDIT FB : sirapop'Pro tongpitak'Gramer")
 session = requests.Session()
-number = input("number Use(66) : ")
-n = int(input("number send:"))
+number = input("NUMBER VICTIM(66) : ")
+n = int(input("TIME 0 or 1:"))
 num = int("" + number)
 class SMS():
     def spamais(self,num):
@@ -48,20 +49,20 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("sms send")
+        print("sms send 1")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("sms send")
+        print("sms send 1")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("sms send")
+        print("sms send 1")
 loop(num)
 def loop(num):
     for i in range(num):
         t.spamais(num)
-        print("sms send")
+        print("sms send 1")
 loop(num)
