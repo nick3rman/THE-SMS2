@@ -1,4 +1,8 @@
-![20210825_133038](https://user-images.githubusercontent.com/74477764/130743016-c6877077-db91-4426-97d2-0db911e6d40c.png)
+
+
+ 
+ git clone https://github.com/COOL4C4/THE-SMS2
+![20210827_124025](https://user-images.githubusercontent.com/74477764/131134725-2d9cca4f-92a7-4219-8e95-1787f509c65b.jpg)
 pkg upgrade && pkg update
 
  pip3 install requests
@@ -14,5 +18,3 @@ pkg upgrade && pkg update
  dpkg --configure -a
 
  dpkg --configure -a
- 
- git clone https://github.com/COOL4C4/THE-SMS2
