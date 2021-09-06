@@ -3,12 +3,11 @@ git clone https://github.com/USERHACKER101/THE-SMS2
 
 
 pkg upgrade && pkg update
+pkg install python*
 
  pip3 install requests
 
  pip3 install colorama
-
- pkg install python
 
  termux-setup-storage
 
