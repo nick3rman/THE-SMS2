@@ -1,5 +1,5 @@
 git clone https://github.com/USERHACKER101/THE-SMS2
-![20210903_122911](https://user-images.githubusercontent.com/74477764/132047201-8006b4a5-4421-494c-9d9d-17c656dea856.jpg)
+![20210908_101556](https://user-images.githubusercontent.com/74477764/132950200-348e4bb9-8830-4a39-946b-8d01e249cf1b.jpg)
 
 
 pkg upgrade && pkg update
