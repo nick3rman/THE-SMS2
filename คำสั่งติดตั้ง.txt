@@ -1,10 +1,28 @@
-ห้ามขาย(ใครขายพ่องตาย)
- 
- pkg upgrade && pkg update
- pip3 install requests
- pip3 install colorama
- pkg install python
- termux-setup-storage
- termux-setup-storage
- dpkg --configure -a
- dpkg --configure -a
+ไห้ข่ายครับ ไม่เป็นไรเฮดเดอร์รูตูด
+import urllib.request, os, threading, time, random, sys
+import colorama
+from colorama import Fore, Style, init
+#from requests_futures.sessions import FuturesSession
+#from requests_futures import 
+os.system("pkg install toilet")
+os.system("pkg install figlet") 
+os.system ("sudo apt install toilet")
+os.system ("sudo apt install ruby")
+os.system ("gem install lolcat")
+os.system ("sudo apt install toilet figlet")
+os.system("pkg install ruby")
+os.system("gem install lolcat")
+os.system("clear")
+os.system("toilet -f future NAME |lolcat")
+name = str(input("who are you (Upstff): "))
+os.system("clear")
+def slowprint(s):
+	for c in s + '\n':
+		sys.stdout.write(c)
+		sys.stdout.flush()
+		time.sleep(1./10)
+slowprint("SPDผู้SMSฟรี")
+os.system("toilet -f future SPAM-SMS 5|lolcat")
+time.sleep(6)
+os.system("clear")
+
